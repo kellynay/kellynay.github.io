@@ -1,0 +1,16 @@
+---
+title: "R Favorite Packages"
+---
+
+A few of my favorite packages include:
+
+- lubridate: this package will be important for my research because I work with precipitation, runoff, and sediment delivery data collected in small watersheds every 5 minutes. Handling seven years worth of data requires a package such as lubridate.
+
+- ggplot2: data visualization is another big part of of research interests and ggplot2 is handy for that.
+
+- GIS research is another interest of mine and after practing few codes from the book Geocomputation with R (https://r.geocompx.org/spatial-class.html), I learned a bit about these packages:
+
+    - (sf):  classes and functions for vector data
+    - (terra): classes and functions for raster data
+    - (spData): load geographic data
+    - (spDataLarge): load larger geographic data

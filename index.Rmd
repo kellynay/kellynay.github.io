@@ -1,0 +1,23 @@
+---
+title: "My Website"
+---
+
+Hello there!
+
+My name is Kelly Nascimento Thompson, I am 3rd year PhD student in Agricultural and Biosystems Engineering at Iowa State University.
+
+Fun fact: I was born and raised in Brazil until the age of 22.
+
+The following websites show some of the work I have been involved as a graduate student:
+
+- Student Bio on the STRIPS Project website
+
+https://www.nrem.iastate.edu/research/STRIPS/people/kelly-nascimento-thompson
+
+- Trainee profile as part of DataFEWSion Cohort 3
+
+https://datafewsion.iastate.edu/trainees/
+
+- Student Bio on the Daily Erosion Project Website
+
+https://www.dailyerosion.org/people/kelly-nayara-nascimento-thompson

@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Volunteering Experience"
+      href: facts.html
+    - text: "R Favorite Packages"
+      href: favorite.html
